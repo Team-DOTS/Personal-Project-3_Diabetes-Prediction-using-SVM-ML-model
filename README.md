@@ -16,7 +16,7 @@
       <a>Solution</a>
     </td>
     <td align="left"  width="1000">
-      <a>Predict diabetes, using an ML model, with the help of Medical data.</a>
+      <a>Predict diabetes, using an ML model, with the help of given Medical data.</a>
     </td>
   </tr>
   
